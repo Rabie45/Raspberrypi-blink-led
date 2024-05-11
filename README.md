@@ -12,6 +12,6 @@ Before running this script, make sure you have the RPi.GPIO library installed on
  - ``` scp sr.py pi@<YOUR-IP>:/home/pi ```
  - you would find the file in /home/pi
  - execute the file by writing on or ON in the terminal 
-## Second 
+
 https://github.com/Rabie45/Raspberrypi-blink-led/assets/76526170/8a1b15e6-0862-4f7f-92a4-790fa1a1eea3
 
