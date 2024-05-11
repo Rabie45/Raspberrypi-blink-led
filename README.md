@@ -9,9 +9,9 @@ Before running this script, make sure you have the RPi.GPIO library installed on
  - ``` ssh pi@<YOUR-IP>```
  - Write your python script given in the repo
  - Transport the file via ssh py this line
- - ``` scp sr.py pi@192.168.1.17:/home/pi ```
+ - ``` scp sr.py pi@<YOUR-IP>:/home/pi ```
  - you would find the file in /home/pi
  - execute the file by writing on or ON in the terminal 
-
+## Second 
 https://github.com/Rabie45/Raspberrypi-blink-led/assets/76526170/8a1b15e6-0862-4f7f-92a4-790fa1a1eea3
 
